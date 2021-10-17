@@ -1,0 +1,193 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    }
+
+.A {
+    height: 596px;
+    width: auto;
+    background-color: #87509c;
+    overflow: hidden;
+}
+
+.nav-logo {
+    text-align: center;
+    padding: 60px 143px; 
+}
+
+.logo {
+    margin-right: 212px;
+}
+
+.nav {
+  float: right;
+  margin-left: 244px;
+  list-style: none;
+}
+
+.nav li {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-right: 34px;
+}
+
+.nav li a {
+    display: block;
+    padding: 6px 17px;
+    text-decoration: none;
+    color: white;;
+}
+
+.nav li a:hover {
+    background-color: #643a79;
+    color: white;
+    border-style: solid;
+    border-color: #643a79;
+    border-radius: 10px;
+    border: 6px;
+}
+
+.welcome {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 147px;
+}
+
+.buttonplace {
+    margin-top: 63px;
+    text-align: center;
+}
+
+.button {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 29px 82px;
+    font-size: 18px;
+    
+    text-decoration: none;
+  
+    border-radius: 3px;
+    background-color: #eb7d4b;
+    box-shadow: inset 0 -4px 0 0 #c86a40 ;
+}
+
+.B {
+    height: 749px;
+    width: auto;
+    background-color: #17c2a4;
+    overflow: hidden;
+}
+
+.services {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 119px;
+}
+
+.line1 {
+    margin-top: 21px;
+    text-align: center;
+    opacity: .0.1;
+}
+
+.globe-work {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.services-provided {
+    color: white;
+    text-align: center;
+    display: flex;
+    margin-top: 83px;
+    width: auto;
+}
+
+.services-provided {
+    margin-left: 10%;
+}
+.banner1 {
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.specification1 {
+    margin-top: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.design {
+    margin-left: 98px;
+}
+.banner2 {
+    margin-top: 54px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.specification2 {
+    margin-top: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.development {
+    margin-left: 96px;
+}
+.banner3 {
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.specification3 {
+    margin-top: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.rocket-science {
+    margin-left: 88px;
+}
+.banner4 {
+    margin-top: 54px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    white-space: nowrap;
+}
+.specification4 {
+    margin-top: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    white-space: nowrap;
+}
+
+.C {
+    height: 914px;
+    width: auto;
+    background-color:#e7f1f8;
+    overflow: hidden;
+}
+
+.team {
+    color: #3c4761;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    text-align: center;
+    margin-top: 120px;
+}
+
+.line1 {
+    margin-top: 23px;
+    text-align: center;
+}
